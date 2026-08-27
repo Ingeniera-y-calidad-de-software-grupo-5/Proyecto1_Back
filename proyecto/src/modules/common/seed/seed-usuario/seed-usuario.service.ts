@@ -54,7 +54,7 @@ export class SeedUsuarioService {
 async seedUsuario() {
 
   const entryData = [
-    { mail: 'admin@gmail.com', contrasena: 'admin123', rol: "Admin", denominacion:"Admin" },
+    { mail: 'superadmin@gmail.com', contrasena: 'admin1234', rol: "Admin", denominacion:"Admin" },
   
   ];
 
